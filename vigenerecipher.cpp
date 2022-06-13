@@ -1,4 +1,3 @@
-//Ng, Pei Aou Wilson, 100332292
 //g++ -pedantic -Wall -Wextra -std=c++14 vigenerecipher.cpp -o cipher
 //This program will perform the encryption step of Vigenere Cipher.
 
